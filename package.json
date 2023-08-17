@@ -1,0 +1,25 @@
+{
+  "name": "routing-vue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "caeser-cipher-js": "^2.0.0",
+    "core-js": "^3.8.3",
+    "franc": "^6.1.0",
+    "morse": "^0.1.0",
+    "perchi": "^1.0.4",
+    "v-clipboard": "^3.0.0-next.1",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-methods": "^7.22.5",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
