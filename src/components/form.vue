@@ -481,6 +481,8 @@ label {
 
   .container {
     width: 50vw;
+    transform: translate(-50%, -15%);
+
   }
 
   .inputText2 #a {
