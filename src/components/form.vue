@@ -18,7 +18,7 @@
             required />
           <label class="radio-button__label" for="radio1">
             <span class="radio-button__custom"></span>
-            to morse
+            to {{store.to_from}}
           </label>
         </div>
         <div class="radio-button">
@@ -26,7 +26,7 @@
             required />
           <label class="radio-button__label" for="radio2">
             <span class="radio-button__custom"></span>
-            from morse
+            from {{ store.to_from }}
           </label>
         </div>
       </div>
